@@ -1,2 +1,2 @@
-# css_projectt_two
+# css_project_two
 Elzero_Templates_Practice
