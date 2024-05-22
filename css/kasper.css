@@ -236,7 +236,7 @@ header .container nav .search-icon {
 /* start landing */
 .landing {
     position: relative;
-    background-image: url(E:/Front-end_developer/CSS/CSS_projects/Kasper_Project/images/landing4.jpg);
+    background-image: url(/images/landing4.jpg);
     background-size: cover;
     min-height: 100vh;
     background-color: rgb(48, 46, 46);
